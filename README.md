@@ -1,6 +1,6 @@
 # Interview-Questions-Of-MongoDB
 
-### **Basic MongoDB Questions:**
+### **★ Basic MongoDB Questions:**
 
 1. **What is MongoDB?**
    - MongoDB is a NoSQL database that stores data in flexible, JSON-like documents, which means fields can vary from document to document, and data structure can change over time.
@@ -17,7 +17,7 @@
 5. **What is a collection in MongoDB?**
    - A collection is a group of MongoDB documents. It is equivalent to an RDBMS table.
 
-### **Intermediate MongoDB Questions:**
+### **★ Intermediate MongoDB Questions:**
 
 6. **What is sharding in MongoDB?**
    - Sharding is a method for distributing data across multiple machines. It allows MongoDB to scale horizontally by partitioning data across shards, which are distributed across multiple servers.
@@ -34,7 +34,7 @@
 10. **How does MongoDB handle transactions?**
     - MongoDB supports multi-document ACID transactions since version 4.0. Transactions allow for complex operations involving multiple documents to be executed atomically.
 
-### **Advanced MongoDB Questions:**
+### **★ Advanced MongoDB Questions:**
 
 11. **How does MongoDB ensure data consistency and reliability?**
     - MongoDB ensures data consistency using Write Concerns and data redundancy through Replica Sets. Write Concern specifies the level of acknowledgment requested from MongoDB for write operations.
